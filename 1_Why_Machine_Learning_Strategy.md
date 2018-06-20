@@ -7,23 +7,18 @@
 
 <img src="./1_Cat.PNG" style="text-align:center;" />
 
-You use a neural network to build a computer vision system for detecting cats in pictures.
-But tragically, your learning algorithm’s accuracy is not yet good enough. You are under
-tremendous pressure to improve your cat detector. What do you do?
-Your team has a lot of ideas, such as:
-- Get more data: Collect more pictures of cats.
-- Collect a more diverse training set. For example, pictures of cats in unusual positions; cats
-with unusual coloration; pictures shot with a variety of camera settings; ….
-- Train the algorithm longer, by running more gradient descent iterations.
-- Try a bigger neural network, with more layers/hidden units/parameters.
-- Try a smaller neural network.
-- Try adding regularization (such as L2 regularization).
-- Change the neural network architecture (activation function, number of hidden units, etc.)
+사진속의 고양이를 감지하는 컴퓨터 비전 시스템을 만들기 위해서 뉴럴 네트워크를 사용할 수 있다. 근데, 안타깝게도, 사용된 학습 알고리즘의 정확도가 아직 충분히 좋다고 말하기 어렵다. 이러면 고양이 감지 능력을 향상시키기 위해서 엄청난 압박에 시달리게 될 지도 모른다. 이때, 무엇을 할 수 있을까?
+
+당신의 팀은 아래와 같은 많은 아이디어를 가질 수 있다:
+- 더 많은 데이터의 수집: 고양이가 포함된 더 많은 사진의 확보
+- 더 다양한 트레이닝 셋의 수집. 그 예로는, 일반적이지 않은 자세를 취하고 있는 고양이 사진 / 일반적이지 않은 색상의 고양이 사진 / 다양한 카메라 설정으로 찍힌 고양이 사진 / ... 등이 있을 수 있다
+- 더 긴 시간동안 더 많은 횟수의 Grandient Descent를 반복(iteration) 하여 알고리즘을 트레이닝 시키는 것
+- 더 많은 레이어, 히든 유닛, 또는 파라메터로 구성된 더 큰 뉴럴 네트워크를 시도해 보는 것
+- 작은 뉴럴 네트워크를 시도해 보는 것
+- L2 regularization와 같은 테크닉을 시도해 보는 것
+- 활성 함수 또는 히든 유닛의 개수등에 변화를 주어 뉴럴 네트워크의 설계를 바꾸어 보는 것
 - …
 
-If you choose well among these possible directions, you’ll build the leading cat picture
-platform, and lead your company to success. If you choose poorly, you might waste months.
-How do you proceed?
-This book will tell you how. Most machine learning problems leave clues that tell you what’s
-useful to try, and what’s not useful to try. Learning to read those clues will save you months
-or years of development time.
+위에 제시된 가능한 옵션 중, 잘 선택하면 아주 똑똑한 고양이 사진을 감지하는 플랫폼 구축이 가능 할 수도 있다. 그러나, 선택을 잘못하면, 수개월 시간을 낭비하게 될지도 모른다. 어떻게 해야 잘 선택할 수 있을까?
+
+이 책이 그것에 대한 해답을 알려줄 수 있기를 바란다. 대부분의 머신 러닝 문제는 의미있거나 의미 없는 시도를 암시하는 단서를 보여준다. 이러한 단서를 발견하는 능력은 시스템 개발에 있어서 많은 시간을 절약하는데 도움을 줄 것이다.
