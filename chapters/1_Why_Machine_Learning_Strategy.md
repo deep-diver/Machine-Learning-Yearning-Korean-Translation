@@ -5,7 +5,7 @@
 #### Example: Building a cat picture startup
 당신이 스타트업을 만들었고, 고양이를 사랑하는 사람들에게 끊임 없는 고양이 사진을 제공하려고 한다고 가정해 보자.
 
-<img src="./1_Cat.PNG" style="text-align:center;" />
+<img src="../img/1_Cat.PNG" style="text-align:center;" />
 
 사진속의 고양이를 감지하는 컴퓨터 비전 시스템을 만들기 위해서 뉴럴 네트워크를 사용할 수 있다. 근데, 안타깝게도, 사용된 학습 알고리즘의 정확도가 아직 충분히 좋다고 말하기 어렵다. 이러면 고양이 감지 능력을 향상시키기 위해서 엄청난 압박에 시달리게 될 지도 모른다. 이때, 무엇을 할 수 있을까?
 

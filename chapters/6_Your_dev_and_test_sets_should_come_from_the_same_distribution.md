@@ -1,7 +1,7 @@
 ## 6 Your dev and test sets should come from the same distribution
 
 <div style="text-align:center;">
-  <img src="./img/6_1.PNG" />
+  <img src="../img/6_1.PNG" />
 </div>
 
 고양이 앱에 대한 이미지 데이터를 가장 큰 시장을 가지고 있는 4가지 지역에 기반하여 보관할 수 있다. 예를 들어서, (i) 미국, (ii) 중국, (iii) 인도, (iv) 그외 처럼 말이다. 개발 / 테스트 데이터셋을 구축하기 위해서, 미국과 인도를 개발 데이터셋에 넣고 중국과 그외지역을 테스트 데이터셋에 넣는다고 가정해 보자. 다시 말하자면, 무작위로 4가지 지역 중 2곳을 개발 데이터셋으로, 나머지 2곳을 테스트 데이터셋으로 위치할 수 있다는 것이다.

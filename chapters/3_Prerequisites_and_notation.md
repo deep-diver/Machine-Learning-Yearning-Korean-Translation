@@ -5,5 +5,5 @@ Coursera MOOC 플랫폼에서 내가 진행한 머신러닝 코스를 들어본 
 이 책에서 나는 인공신경망 (딥 러닝이라고도 알려진) 에 대하여 자주 언급할 것이다. 깊은 지식까지는 필요 없지만, 이 책을 읽어 나가기 위해서 기본적인 이해가 필요하다. 만약, 위에서 말한 개념이 이해되지 않는 것이 있다면, Coursera의 [머신러닝 코스](​http://ml-class.org) 중 첫번째 3주간의 비디오를 시청하길 권장한다.
 
 <div style="text-align:center;">
-  <img src='./img/3_1.png' style="text-align: center;" />
+  <img src='../img/3_1.png' style="text-align: center;" />
 </div>

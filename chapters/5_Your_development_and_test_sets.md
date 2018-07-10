@@ -7,7 +7,7 @@
 그런데, 이 분류 프로그램을 실제 배포할때, 성능이 상당히 나쁘다는 것을 알게 된다.
 
 <div style="text-align:center;">
-  <img src="./img/5_1.PNG" style="text-align:center;"/>
+  <img src="../img/5_1.PNG" style="text-align:center;"/>
 </div>
 
 무슨 일이 일어난 걸까?
