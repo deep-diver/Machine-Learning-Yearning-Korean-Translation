@@ -6,29 +6,29 @@ This repository is to provide Korean translated version of 'Machine Learning Yea
 
 ## Contents
 
-1 Why Machine Learning Strategy
+[1 왜 머신러닝에 대한 전략을 알아야 하는가?](./1_Why_Machine_Learning_Strategy.md)
 
-2 How to use this book to help your team
+[2 이 책을 사용 하는 방법](./2_How_to_use_this_book_to_help_your_team.md)
 
-3 Prerequisites and Notation
+[3 이 책을 읽기전 미리 알아야 하는 것과 사용되는 표기법](./3_Prerequisites_and_notation.md)
 
-4 Scale drives machine learning progress
+[4 규모가 머신러닝의 진보를 이끈다](./4_Scale_drives_machine_learning_progress.md)
 
-5 Your development and test sets
+[5 개발 데이터셋과 테스트 데이터셋](./5_Your_development_and_test_sets.md)
 
-6 Your dev and test sets should come from the same distribution
+[6 개발/테스트 데이터셋은 같은 분포의 데이터로 구성되어야 한다](./6_Your_dev_and_test_sets_should_come_from_the_same_distribution.md)
 
-7 How large do the dev/test sets need to be?
+[7 개발/테스트 데이터셋이 얼마나 커야 하는가?](./7_How_large_do_the_dev_test_sets_need_to_be.md)
 
-8 Establish a single-number evaluation metric for your team to optimize
+[8 알고리즘 최적화를 위해서 단일-숫자 평가지표를 설정하는것](./8_Establish_a_single-number_evaluation_metric_for_your_team_to_optimize.md)
 
-9 Optimizing and satisficing metrics
+[9 최적화와 만족화라는 평가 지표에 대해서](./9_Optimizing_and_satisficing_metrics.md)
 
-10 Having a dev set and metric speeds up iterations
+[10 개발 데이터셋과 평가지표로 개발 사이클 순환 속도를 빠르게](./10_Having_a_dev_set_and_metric_speeds_up_iterations.md)
 
-11 When to change dev/test sets and metrics
+[11 개발/테스트 데이터셋과 평가지표를 언제 바꿔야 하는가?](./11_When_to_change_dev_test_sets_and_metrics.md)
 
-12 Takeaways: Setting up development and test sets
+[12 요약: 개발 데이터셋과 테스트 데이터셋을 설정하는 것에 관하여](./12_Takeaways_Setting_up_development_and_test_sets.md)
 
 13 Build your first system quickly, then iterate
 
