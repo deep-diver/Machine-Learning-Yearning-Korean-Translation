@@ -1,6 +1,6 @@
-# Korean translated version of 'Machine Learning Yearning'
+#'Machine Learning Yearning' 책의 한국어 번역
 
-This repository is to provide Korean translated version of 'Machine Learning Yearning' book by Andrew Ng.
+이 저장소는 앤드류 응(Andrew Ng.) 교수저 'Machine Learning Yearning'라는 책의 한국어 번역 내용을 포함한다.This repository is to provide 
 
 <img src="./img/covers.png">
 
