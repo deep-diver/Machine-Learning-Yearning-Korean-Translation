@@ -30,9 +30,9 @@
 
 [12 요약: 개발 데이터셋과 테스트 데이터셋을 설정하는 것에 관하여](./chapters/12_Takeaways_Setting_up_development_and_test_sets.md)
 
-13 Build your first system quickly, then iterate
+[13 빨리 시스템을 만들어 보고, 개발 사이클의 순환을 빠르게 하자](./chapters/13_Build_your_first_system_quickly_then_iterate.md)
 
-14 Error analysis: Look at dev set examples to evaluate ideas
+[14 에러 분석: 아이디어에 대한 평가를 위해 개발 데이터셋을 살펴보는 것](./chapters/14_Error_analysis_Look_at_dev_set_examples_to_evaluate_ideas)
 
 15 Evaluating multiple ideas in parallel during error analysis
 
