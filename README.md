@@ -1,2 +1,5 @@
-# ml-yearning-korean
-Korean translation of machine learning yearning book by Andrew Ng.
+# Korean translated version of 'Machine Learning Yearning'
+
+This repository is to provide Korean translated version of 'Machine Learning Yearning' book by Andrew Ng.
+
+<img src="./img/covers.png">
