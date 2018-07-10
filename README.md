@@ -1,4 +1,4 @@
-#'Machine Learning Yearning' 책의 한국어 번역
+# 'Machine Learning Yearning' 책의 한국어 번역
 
 이 저장소는 앤드류 응(Andrew Ng.) 교수저 'Machine Learning Yearning'라는 책의 한국어 번역 내용을 포함한다.
 
