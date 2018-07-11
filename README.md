@@ -14,7 +14,7 @@
 
 [4 규모가 머신러닝의 진보를 이끈다](./chapters/4_Scale_drives_machine_learning_progress.md)
 
-### 개발용 데이터셋과 테스트용 데이터셋을 설정하는 것에 대하여
+### *개발용 데이터셋과 테스트용 데이터셋을 설정하는 것에 대하여*
 
 [5 개발 데이터셋과 테스트 데이터셋](./chapters/5_Your_development_and_test_sets.md)
 
@@ -32,7 +32,7 @@
 
 [12 요약: 개발 데이터셋과 테스트 데이터셋을 설정하는 것에 관하여](./chapters/12_Takeaways_Setting_up_development_and_test_sets.md)
 
-### 기본적인 에러 분석에 대하여
+### *기본적인 에러 분석에 대하여*
 
 [13 빨리 시스템을 만들어 보고, 개발 사이클의 순환을 빠르게 하자](./chapters/13_Build_your_first_system_quickly_then_iterate.md)
 
@@ -48,7 +48,7 @@
 
 19 Takeaways: Basic error analysis
 
-### 변향과 분산에 대하여
+### *변향과 분산에 대하여*
 
 20 Bias and Variance: The two big sources of error
 
@@ -76,7 +76,7 @@
 
 32 Plotting learning curves
 
-### 인간 수준의 성능과 비교하는 것에 대하여
+### *인간 수준의 성능과 비교하는 것에 대하여*
 
 33 Why we compare to human-level performance
 
@@ -84,7 +84,7 @@
 
 35 Surpassing human-level performance
 
-### 다른 데이터 분포에 대하여 트레이닝과 테스트하는 것에 대하여
+### *다른 데이터 분포에 대하여 트레이닝과 테스트하는 것에 대하여*
 
 36 When you should train and test on different distributions
 
@@ -102,7 +102,7 @@
 
 43 Artificial data synthesis
 
-### 추론 알고리즘을 디버깅 하는 것에 대하여
+### *추론 알고리즘을 디버깅 하는 것에 대하여*
 
 44 The Optimization Verification test
 
@@ -110,7 +110,7 @@
 
 46 Reinforcement learning example
 
-### End-to-End 딥러닝에 대하여
+### *End-to-End 딥러닝에 대하여*
 
 47 The rise of end-to-end learning
 
