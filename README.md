@@ -48,6 +48,8 @@
 
 19 Takeaways: Basic error analysis
 
+### 변향과 분산에 대하여
+
 20 Bias and Variance: The two big sources of error
 
 21 Examples of Bias and Variance
@@ -74,11 +76,15 @@
 
 32 Plotting learning curves
 
+### 인간 수준의 성능과 비교하는 것에 대하여
+
 33 Why we compare to human-level performance
 
 34 How to define human-level performance
 
 35 Surpassing human-level performance
+
+### 다른 데이터 분포에 대하여 트레이닝과 테스트하는 것에 대하여
 
 36 When you should train and test on different distributions
 
@@ -96,11 +102,15 @@
 
 43 Artificial data synthesis
 
+### 추론 알고리즘을 디버깅 하는 것에 대하여
+
 44 The Optimization Verification test
 
 45 General form of Optimization Verification test
 
 46 Reinforcement learning example
+
+### End-to-End 딥러닝에 대하여
 
 47 The rise of end-to-end learning
 
