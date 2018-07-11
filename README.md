@@ -14,7 +14,7 @@
 
 [4 규모가 머신러닝의 진보를 이끈다](./chapters/4_Scale_drives_machine_learning_progress.md)
 
-### 개발용 데이터셋과 테스트용 데이터셋을 설정하는 것에 
+### 개발용 데이터셋과 테스트용 데이터셋을 설정하는 것에 대하여
 
 [5 개발 데이터셋과 테스트 데이터셋](./chapters/5_Your_development_and_test_sets.md)
 
@@ -32,7 +32,7 @@
 
 [12 요약: 개발 데이터셋과 테스트 데이터셋을 설정하는 것에 관하여](./chapters/12_Takeaways_Setting_up_development_and_test_sets.md)
 
-### 기본적인 에러 분석에 
+### 기본적인 에러 분석에 대하여
 
 [13 빨리 시스템을 만들어 보고, 개발 사이클의 순환을 빠르게 하자](./chapters/13_Build_your_first_system_quickly_then_iterate.md)
 
