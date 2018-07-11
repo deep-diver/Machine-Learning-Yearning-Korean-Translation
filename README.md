@@ -40,7 +40,7 @@
 
 [15 에러 분석 중간에 여러가지 아이디어를 동시에 판단해 보는 것](./chapters/15_Evaluating_multiple_ideas_in_parallel_during_error_analysis.md)
 
-16 Cleaning up mislabeled dev and test set examples
+[16 개발/테스트 데이터셋의 잘못 레이블링된 데이터를 정리하는 것](./chapters/16_Cleaning_up_mislabeled_dev_and_test_set_examples.md)
 
 17 If you have a large dev set, split it into two subsets, only one of which you look at
 
