@@ -43,9 +43,10 @@
 [16 개발/테스트 데이터셋의 잘못 레이블링된 데이터를 정리하는 것](./chapters/16_Cleaning_up_mislabeled_dev_and_test_set_examples.md)
 
 [17 큰 사이즈의 개발 데이터셋이 있는 경우, 두개의 부분집합으로 이를 나누고, 그 중 하나만 관찰하는 것](./chapters/17_If_you_have_a_large_dev_set_split_it_into_two_subsets_only_one_of_which_you_look_at.md)
-18 How big should the Eyeball and Blackbox dev sets be?
 
-19 Takeaways: Basic error analysis
+[18 "눈알"과 "블랙박스" 개발데이터셋은 얼마나 커야 할까?]()
+
+[19 요약: 기본적인 에러 분석에 관하여](./chapters/19_Takeaways_Basic_error_analysis.md)
 
 ### *변향과 분산에 대하여*
 
