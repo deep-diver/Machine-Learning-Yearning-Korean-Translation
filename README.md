@@ -48,7 +48,7 @@
 
 [19 요약: 기본적인 에러 분석에 관하여](./chapters/19_Takeaways_Basic_error_analysis.md)
 
-### *향과 분산에 대하여*
+### *편향과 분산에 대하여*
 
 20 Bias and Variance: The two big sources of error
 
