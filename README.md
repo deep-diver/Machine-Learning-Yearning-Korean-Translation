@@ -52,7 +52,7 @@
 
 ### *편향과 분산에 대하여*
 
-20 Bias and Variance: The two big sources of error
+[20 편향과 분산: 에러를 일으키는 두 가지 큰 원인](./chapters/20_Bias_and_Variance_The_two_big_sources_of_error.md)
 
 21 Examples of Bias and Variance
 
