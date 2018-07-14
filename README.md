@@ -2,6 +2,8 @@
 
 이 저장소는 앤드류 응(Andrew Ng.) 교수저 'Machine Learning Yearning'라는 책의 한국어 번역 내용을 포함한다.
 
+[번역 대상이 된 원서의 링크](https://l.facebook.com/l.php?u=https%3A%2F%2Fgallery.mailchimp.com%2Fdc3a7ef4d750c0abfc19202a3%2Ffiles%2Fd2dee348-4ada-400c-a0b2-d884fcdc368f%2FNg_MLY01_11.pdf&h=AT2Wn9gwIEnWhlRcmLMXMBx1pPSQzNZm4XjzvsdOaItRG7ukxC157YOhFLhAwMROsdMHWbs5XElHsXQRRTNJ748aXgE2adSWYLZOAcimsCEaH85nyagnPoQvh2kVpJL3MBoAyOY) 는 현재 집필중인 Draft 버전으로, 업데이트가 될 때 마다 해당 링크와 동기화 될 예정 입니다.
+
 <img src="./img/covers.png">
 
 ## Contents
