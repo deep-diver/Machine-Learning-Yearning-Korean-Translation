@@ -56,7 +56,7 @@
 
 [21 편향과 분산의 예](./chapters/21_Examples_of_Bias_and_Variance.md)
 
-22 Comparing to the optimal error rate
+[22 최적의 에러율과 비교하는 것](./chapters/22_Comparing_to_the_optimal_error_rate.md)
 
 23 Addressing Bias and Variance
 
