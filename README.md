@@ -62,7 +62,7 @@
 
 [24 편향 vs. 분산의 균형 대립](./chapters/24_Bias_vs_Variance_tradeoff.md)
 
-25 Techniques for reducing avoidable bias
+[25 "피할수 있는" 편향을 줄이기 위한 기법들](./chapters/25 Techniques for reducing avoidable bias.md)
 
 26 Error analysis on the training set
 
