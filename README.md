@@ -58,7 +58,7 @@
 
 [22 최적의 에러율과 비교하는 것](./chapters/22_Comparing_to_the_optimal_error_rate.md)
 
-23 Addressing Bias and Variance
+[23 편향과 분산 문제 해결방법에 대한 고심](./chapters/23_Addressing_Bias_and_Variance.md)
 
 24 Bias vs. Variance tradeoff
 
