@@ -60,7 +60,7 @@
 
 [23 편향과 분산 문제 해결방법에 대한 고심](./chapters/23_Addressing_Bias_and_Variance.md)
 
-24 Bias vs. Variance tradeoff
+[24 편향 vs. 분산의 균형 대립](./chapters/24_Bias_vs_Variance_tradeoff.md)
 
 25 Techniques for reducing avoidable bias
 
