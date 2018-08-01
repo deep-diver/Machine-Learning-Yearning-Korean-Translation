@@ -76,7 +76,7 @@
 
 [30 학습 곡선을 해석하는 것: 높은 편향치](./chapters/30_Interpreting_learning_curves_High_bias.md)
 
-31 Interpreting learning curves: Other cases
+[31 학습 곡선을 해석하는 것: 그 외의 상황](./chapters/31_Interpreting_learning_curves_Other_cases.md)
 
 32 Plotting learning curves
 
