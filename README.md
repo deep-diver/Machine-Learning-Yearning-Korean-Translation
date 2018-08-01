@@ -84,7 +84,7 @@
 
 [33 왜 사람-수준의 성능과 비교해야 하는가?](./chapters/33_Why_we_compare_to_human-level_performance.md)
 
-34 How to define human-level performance
+[34 어떻게 사람-수준의 성능을 정의할 것인가?](./chapters/34_How_to_define_human-level_performance.md)
 
 35 Surpassing human-level performance
 
