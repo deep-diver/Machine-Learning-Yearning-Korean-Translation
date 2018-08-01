@@ -82,7 +82,7 @@
 
 ### *인간 수준의 성능과 비교하는 것에 대하여*
 
-33 Why we compare to human-level performance
+[33 왜 사람-수준의 성능과 비교해야 하는가?](./chapters/33_Why_we_compare_to_human-level_performance.md)
 
 34 How to define human-level performance
 
