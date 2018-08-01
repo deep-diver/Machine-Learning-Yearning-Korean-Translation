@@ -78,7 +78,7 @@
 
 [31 학습 곡선을 해석하는 것: 그 외의 상황](./chapters/31_Interpreting_learning_curves_Other_cases.md)
 
-32 Plotting learning curves
+[32 학습 곡선들을 그리는 것](./chapters/32_Plotting_learning_curves.md)
 
 ### *인간 수준의 성능과 비교하는 것에 대하여*
 
