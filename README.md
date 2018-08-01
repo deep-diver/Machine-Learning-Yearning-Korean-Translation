@@ -66,7 +66,7 @@
 
 [26 학습 데이터셋에 대한 에러 분석](./chapters/26_Error_analysis_on_the_training_set.md)
 
-27 Techniques for reducing variance
+[27 분산치를 줄이기 위한 기법들](./chapters/27_Techniques_for_reducing_variance.md)
 
 28 Diagnosing bias and variance: Learning curves
 
