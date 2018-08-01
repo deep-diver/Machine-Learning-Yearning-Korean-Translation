@@ -70,7 +70,7 @@
 
 ### *학습 곡선(Learning Curve)에 대하여*
 
-28 Diagnosing bias and variance: Learning curves
+[28 편향과 분산을 진단하는 것: 학습 곡선](./chapters/28_Diagnosing_bias_and_variance_Learning_curves.md)
 
 29 Plotting training error
 
