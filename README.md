@@ -64,7 +64,7 @@
 
 [25 피할 수 있는 편향을 줄이기 위한 기법들](./chapters/25_Techniques_for_reducing_avoidable_bias.md)
 
-26 Error analysis on the training set
+[26 학습 데이터셋에 대한 에러 분석](./chapters/26_Error_analysis_on_the_training_set.md)
 
 27 Techniques for reducing variance
 
