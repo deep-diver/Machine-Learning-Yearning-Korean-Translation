@@ -72,7 +72,7 @@
 
 [28 편향과 분산을 진단하는 것: 학습 곡선](./chapters/28_Diagnosing_bias_and_variance_Learning_curves.md)
 
-29 Plotting training error
+[29 학습 데이터셋에 대한 에러의 곡선을 그리는 것](./chapters/29_Plotting_training_error.md)
 
 30 Interpreting learning curves: High bias
 
