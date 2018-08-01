@@ -68,6 +68,8 @@
 
 [27 분산치를 줄이기 위한 기법들](./chapters/27_Techniques_for_reducing_variance.md)
 
+### *학습 곡선(Learning Curve)에 대하여*
+
 28 Diagnosing bias and variance: Learning curves
 
 29 Plotting training error
