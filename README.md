@@ -74,7 +74,7 @@
 
 [29 학습 데이터셋에 대한 에러의 곡선을 그리는 것](./chapters/29_Plotting_training_error.md)
 
-30 Interpreting learning curves: High bias
+[30 학습 곡선을 해석하는 것: 높은 편향치](./chapters/30_Interpreting_learning_curves_High_bias.md)
 
 31 Interpreting learning curves: Other cases
 
