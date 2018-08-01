@@ -86,7 +86,7 @@
 
 [34 어떻게 사람-수준의 성능을 정의할 것인가?](./chapters/34_How_to_define_human-level_performance.md)
 
-35 Surpassing human-level performance
+[35 사람-수준의 성능을 넘어서는 것](./chapters/35_Surpassing_human-level_performance.md)
 
 ### *다른 데이터 분포에 대하여 트레이닝과 테스트하는 것에 대하여*
 
