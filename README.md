@@ -90,7 +90,7 @@
 
 ### *다른 데이터 분포에 대하여 트레이닝과 테스트하는 것에 대하여*
 
-36 When you should train and test on different distributions
+[36 다른 분포로 부터 구성되는 학습, 테스트 데이터셋을 언제 사용해야 하는가?](./chapters/36_When_you_should_train_and_test_on_different_distributions.md)
 
 37 How to decide whether to use all your data
 
