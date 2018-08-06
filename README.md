@@ -92,7 +92,7 @@
 
 [36 다른 분포로 부터 구성되는 학습, 테스트 데이터셋을 언제 사용해야 하는가?](./chapters/36_When_you_should_train_and_test_on_different_distributions.md)
 
-37 How to decide whether to use all your data
+[37 모든 데이터를 사용해야하는지 어떻게 결정을 내릴 수 있는가?](./chapters/37_How_to_decide_whether_to_use_all_your_data.md)
 
 38 How to decide whether to include inconsistent data
 
