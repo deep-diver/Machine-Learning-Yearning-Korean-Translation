@@ -94,7 +94,7 @@
 
 [37 모든 데이터를 사용해야하는지 어떻게 결정을 내려야 하는가?](./chapters/37_How_to_decide_whether_to_use_all_your_data.md)
 
-[38 일관적이지 못한 데이터를 포함시키기 위한 결정을 어떻게 내려야 하는가?How to decide whether to include inconsistent data](./chapters/38_How_to_decide_whether_to_include_inconsistent_data.md)
+[38 일관적이지 못한 데이터를 포함시키기 위한 결정을 어떻게 내려야 하는가?](./chapters/38_How_to_decide_whether_to_include_inconsistent_data.md)
 
 39 Weighting data
 
