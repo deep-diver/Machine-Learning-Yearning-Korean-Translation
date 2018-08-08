@@ -96,7 +96,7 @@
 
 [38 일관적이지 못한 데이터를 포함시키기 위한 결정을 어떻게 내려야 하는가?](./chapters/38_How_to_decide_whether_to_include_inconsistent_data.md)
 
-39 Weighting data
+[39 데이터에 가중치를 주는 것](./chapters/39_Weighting_data.md)
 
 40 Generalizing from the training set to the dev set
 
