@@ -98,7 +98,7 @@
 
 [39 데이터에 가중치를 주는 것](./chapters/39_Weighting_data.md)
 
-40 Generalizing from the training set to the dev set
+[40 학습 데이터셋에서 개발 데이터셋으로 일반화 하는 것](./chapters/40_Generalizing_from_the_training_set_to_the_dev_set.md)
 
 41 Addressing Bias and Variance
 
