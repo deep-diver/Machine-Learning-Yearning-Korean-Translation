@@ -100,7 +100,7 @@
 
 [40 학습 데이터셋에서 개발 데이터셋으로 일반화 하는 것](./chapters/40_Generalizing_from_the_training_set_to_the_dev_set.md)
 
-41 Addressing Bias and Variance
+[41 편향과 분산을 표현/해결하는 것](./chapters/41_Identifying_Bias_Variance_and_Data_Mismatch_Errors.md)
 
 42 Addressing data mismatch
 
