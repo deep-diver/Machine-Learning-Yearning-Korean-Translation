@@ -104,7 +104,7 @@
 
 [42 데이터 미스매치를 표현/해결하는 것](./chapters/42_Addressing_data_mismatch.md)
 
-43 Artificial data synthesis
+[43 인공적인 데이터 합성에 대하여](./chapters/43_Artificial_data_synthesis.md)
 
 ### *추론 알고리즘을 디버깅 하는 것에 대하여*
 
