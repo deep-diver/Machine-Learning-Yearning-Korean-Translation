@@ -102,7 +102,7 @@
 
 [41 편향과 분산을 표현/해결하는 것](./chapters/41_Identifying_Bias_Variance_and_Data_Mismatch_Errors.md)
 
-42 Addressing data mismatch
+[42 데이터 미스매치를 표현/해결하는 것](./chapters/42_Addressing_data_mismatch.md)
 
 43 Artificial data synthesis
 
