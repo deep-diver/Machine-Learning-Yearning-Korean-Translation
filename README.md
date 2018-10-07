@@ -108,7 +108,7 @@
 
 ### *추론 알고리즘을 디버깅 하는 것에 대하여*
 
-44 The Optimization Verification test
+[44 최적화 검증 테스트(The Optimization Verification test)](./chapters/44_The_Optimization_Verification_test.md)
 
 45 General form of Optimization Verification test
 
