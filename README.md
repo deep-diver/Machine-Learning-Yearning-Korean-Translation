@@ -110,7 +110,7 @@
 
 [44 최적화 검증 테스트(The Optimization Verification test)](./chapters/44_The_Optimization_Verification_test.md)
 
-45 General form of Optimization Verification test
+[45 최적화 검증 테스트의 일반적인 형태](./chapters/45_General_form_of_Optimization_Verification_test.md)
 
 46 Reinforcement learning example
 
