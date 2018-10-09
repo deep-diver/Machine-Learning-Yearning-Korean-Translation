@@ -112,7 +112,7 @@
 
 [45 최적화 검증 테스트의 일반적인 형태](./chapters/45_General_form_of_Optimization_Verification_test.md)
 
-46 Reinforcement learning example
+[46 강화학습의 예](./chapters/46_Reinforcement_learning_example.md)
 
 ### *End-to-End 딥러닝에 대하여*
 
