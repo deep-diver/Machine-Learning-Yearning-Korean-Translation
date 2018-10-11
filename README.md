@@ -118,7 +118,7 @@
 
 [47 End-to-End 학습의 등장](./chapters/47_The_rise_of_end_to_end_learning.md)
 
-48 More end-to-end learning examples
+[48 End-to-End 학습의 다른 예](./chapters/48_More_end_to_end_learning_examples.md)
 
 49 Pros and cons of end-to-end learning
 
