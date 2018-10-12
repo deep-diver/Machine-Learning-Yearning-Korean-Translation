@@ -120,7 +120,7 @@
 
 [48 End-to-End 학습의 다른 예](./chapters/48_More_end_to_end_learning_examples.md)
 
-49 Pros and cons of end-to-end learning
+[49 End-to-End 학습의 장단점](./chapters/49_Pros_and_cons_of_end_to_end_learning.md)
 
 50 Learned sub-components
 
