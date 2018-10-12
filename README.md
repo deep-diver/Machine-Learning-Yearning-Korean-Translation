@@ -122,16 +122,24 @@
 
 [49 End-to-End 학습의 장단점](./chapters/49_Pros_and_cons_of_end_to_end_learning.md)
 
-50 Learned sub-components
+50 Choosing pipeline components: Data availability
 
-51 Directly learning rich outputs
+51 Choosing pipeline components: Task simplicity
 
-52 Error Analysis by Parts
+52 Directly learning rich outputs
 
-53 Beyond supervised learning: What’s next?
+### *부분별로 수행하는 에러 분석*
 
-54 Building a superhero team - Get your teammates to read this
+53 Error Analysis by Parts
 
-55 Big picture
+54 Attributing error to one part
 
-56 Credits
+55 General case of error attribution
+
+56 Error analysis by parts and comparison to human-level performance
+
+57 Spotting a flawed ML pipeline
+
+### *결말*
+
+58 Building a superhero team - Get your teammates to read this
