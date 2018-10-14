@@ -122,9 +122,9 @@
 
 [49 End-to-End 학습의 장단점](./chapters/49_Pros_and_cons_of_end_to_end_learning.md)
 
-[50 파이프라인의 컴포넌를 선택하는 것: 데이터 수집의 가능성](./chapters/50_Choosing_pipeline_components_Data_availability.md)
+[50 파이프라인의 컴포넌트를 선택하는 것: 데이터 수집의 가능성](./chapters/50_Choosing_pipeline_components_Data_availability.md)
 
-51 Choosing pipeline components: Task simplicity
+[51 파이프라인의 컴포넌트를 선택하는 것: 작업의 간결성](./chapters/51_Choosing_pipeline_components_Task_simplicity.md)
 
 52 Directly learning rich outputs
 
