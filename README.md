@@ -126,7 +126,7 @@
 
 [51 파이프라인의 컴포넌트를 선택하는 것: 작업의 간결성](./chapters/51_Choosing_pipeline_components_Task_simplicity.md)
 
-52 Directly learning rich outputs
+[52 직접적으로 부유한(rich) 출력값을 학습하는 것](./chapters/52_Directly_learning_rich_outputs.md)
 
 ### *부분별로 수행하는 에러 분석*
 
