@@ -130,7 +130,7 @@
 
 ### *부분별로 수행하는 에러 분석*
 
-53 Error Analysis by Parts
+[53 부분/컴포넌트별로 수행하는 에러 분석](./chapters/53_Error_analysis_by_parts.md)
 
 54 Attributing error to one part
 
