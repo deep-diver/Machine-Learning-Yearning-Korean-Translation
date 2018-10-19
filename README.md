@@ -46,7 +46,7 @@
 
 [17 큰 사이즈의 개발 데이터셋이 있는 경우, 두개의 부분집합으로 이를 나누고, 그 중 하나만 관찰하는 것](./chapters/17_If_you_have_a_large_dev_set_split_it_into_two_subsets_only_one_of_which_you_look_at.md)
 
-[18 "눈알"과 "블랙박스" 개발데이터셋은 얼마나 커야 할까?]()
+[18 "눈알"과 "블랙박스" 개발데이터셋은 얼마나 커야 할까?](./chapters/18_How_big_should_the_Eyeball_and_Blackbox_dev_sets_be.md)
 
 [19 요약: 기본적인 에러 분석에 관하여](./chapters/19_Takeaways_Basic_error_analysis.md)
 
