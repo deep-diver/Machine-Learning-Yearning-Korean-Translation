@@ -138,7 +138,7 @@
 
 [56 사람-수준의 성능과 각 컴포넌트를 비교하여 에러분석을 수행하는 것](./chapters/56_Error_analysis_by_parts_and_comparison_to_human_level_performance.md)
 
-57 Spotting a flawed ML pipeline
+[57 ML 파이프라인의 결함을 발견하는 것](./chapters/57_Spotting_a_flawed_ML_pipeline.md)
 
 ### *결말*
 
