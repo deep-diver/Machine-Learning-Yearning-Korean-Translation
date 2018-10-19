@@ -134,7 +134,7 @@
 
 [54 에러를 특정 컴포넌트의 잘못으로 분류하는것](./chapters/54_Attributing_error_to_one_part.md)
 
-55 General case of error attribution
+[55 에러를 특정 컴포넌트의 잘못으로 분류하는 일반적인 방법](./chapters/55_General_case_of_error_attribution.md)
 
 56 Error analysis by parts and comparison to human-level performance
 
