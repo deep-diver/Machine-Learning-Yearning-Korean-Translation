@@ -132,7 +132,7 @@
 
 [53 부분/컴포넌트별로 수행하는 에러 분석](./chapters/53_Error_analysis_by_parts.md)
 
-54 Attributing error to one part
+[54 에러를 특정 컴포넌트의 잘못으로 분류하는것](./chapters/54_Attributing_error_to_one_part.md)
 
 55 General case of error attribution
 
