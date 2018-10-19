@@ -136,7 +136,7 @@
 
 [55 에러를 특정 컴포넌트의 잘못으로 분류하는 일반적인 방법](./chapters/55_General_case_of_error_attribution.md)
 
-56 Error analysis by parts and comparison to human-level performance
+[56 사람-수준의 성능과 각 컴포넌트를 비교하여 에러분석을 수행하는 것](./chapters/56_Error_analysis_by_parts_and_comparison_to_human_level_performance.md)
 
 57 Spotting a flawed ML pipeline
 
