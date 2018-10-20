@@ -142,4 +142,4 @@
 
 ### *결말*
 
-58 Building a superhero team - Get your teammates to read this
+[58 수퍼 히어로 팀을 만드는 것 - 팀 동료에게 이 책을 읽게 해자](./chapters/58_Building_a_superhero_team_Get_your_teammates_to_read_this.md)
